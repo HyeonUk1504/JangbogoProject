@@ -1,3 +1,10 @@
-*.xls
-*.xlsx
+# 데이터 구글 드라이브 공유
+data/combine_data
+data/share_source
+data/원본데이터
+
 *.csv
+*.xls
+*.ipynb_checkpoints
+*.exe
+*.txt
