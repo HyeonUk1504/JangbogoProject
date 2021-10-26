@@ -2,9 +2,10 @@
 data/combine_data
 data/share_source
 data/원본데이터
+develop/.ipynb_checkpoints
 
 *.csv
 *.xls
-*.ipynb_checkpoints
 *.exe
 *.txt
+*.html
